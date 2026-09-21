@@ -1,5 +1,5 @@
-Reinforcement Learning - University Research Projects
-
+Reinforcement Learning - University Projects
+----------------------------------------------
 1. Multi-GPU Distributed Infrastructure & Compute Optimization
 Title: Multi-GPU Distributed Fine-Tuning & Compute Infrastructure
 Description: Managed distributed fine-tuning workloads across multi-GPU NVIDIA A100 nodes, optimizing compute allocation, GPU memory utilization, and parallel execution pipelines for scalable AI systems research.
@@ -19,3 +19,7 @@ Description: Built an interactive LLM-MCTS planning agent using Upper Confidence
 5. Interactive Agent Evaluation Framework
 Title: Cross-Environment Agent Evaluation Framework (WebShop & WebArena)
 Description: Designed a unified evaluation benchmark bridging WebShop and WebArena, quantifying task-completion complexity through state transitions and retry metrics to reveal a $4.7x complexity gap between simulated and production environments.
+
+Research Paper References: 
+---------------------------
+- https://llm-mcts.github.io/static/pdfs/paper.pdf
