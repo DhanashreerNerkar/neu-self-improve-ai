@@ -21,12 +21,12 @@ Title: Cross-Environment Agent Evaluation Framework (WebShop & WebArena)
 Description: Designed a unified evaluation benchmark bridging WebShop and WebArena, quantifying task-completion complexity through state transitions and retry metrics to reveal a $4.7x complexity gap between simulated and production environments.
 
 6. Other Experiments:
-https://github.com/DhanashreerNerkar/webshop_webarena_APO |
-https://github.com/DhanashreerNerkar/Experiment_RAGEN_A-PO_Webshop |
-https://github.com/DhanashreerNerkar/DeepSeekR1-with-A-PO-GPU-Version
+   * https://github.com/DhanashreerNerkar/webshop_webarena_APO <br>
+   * https://github.com/DhanashreerNerkar/Experiment_RAGEN_A-PO_Webshop <br>
+   * https://github.com/DhanashreerNerkar/DeepSeekR1-with-A-PO-GPU-Version <br>
  
 Resources and Referecnes:
 --------------------------
-Research Paper - https://llm-mcts.github.io/static/pdfs/paper.pdf |
-PlayList - https://www.youtube.com/playlist?list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ |
-Google Deepmind RL course Inspired Visual Learning - https://dhanashreernerkar.github.io/rl-learning-guide/
+   * Research Paper - https://llm-mcts.github.io/static/pdfs/paper.pdf <br>
+   * PlayList - https://www.youtube.com/playlist?list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ <br>
+   * Google Deepmind RL course Inspired Visual Learning - https://dhanashreernerkar.github.io/rl-learning-guide/
