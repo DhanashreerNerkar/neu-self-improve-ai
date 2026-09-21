@@ -20,6 +20,8 @@ Description: Built an interactive LLM-MCTS planning agent using Upper Confidence
 Title: Cross-Environment Agent Evaluation Framework (WebShop & WebArena)
 Description: Designed a unified evaluation benchmark bridging WebShop and WebArena, quantifying task-completion complexity through state transitions and retry metrics to reveal a $4.7x complexity gap between simulated and production environments.
 
-Research Paper References: 
----------------------------
-- https://llm-mcts.github.io/static/pdfs/paper.pdf
+Resources and Referecnes:
+--------------------------
+Research Paper - https://llm-mcts.github.io/static/pdfs/paper.pdf
+PlayList - https://www.youtube.com/playlist?list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ
+Google Deepmind RL course Inspired Visual Learning - https://dhanashreernerkar.github.io/rl-learning-guide/
