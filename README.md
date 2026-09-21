@@ -29,4 +29,10 @@ Resources and Referecnes:
 --------------------------
    * Research Paper - https://llm-mcts.github.io/static/pdfs/paper.pdf <br>
    * PlayList - https://www.youtube.com/playlist?list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ <br>
-   * Google Deepmind RL course Inspired Visual Learning - https://dhanashreernerkar.github.io/rl-learning-guide/
+
+Personal Initatives:
+--------------------------
+  * Google Deepmind RL course Inspired Visual Learning - https://dhanashreernerkar.github.io/rl-learning-guide/ <br>
+  * RL Game Output : https://github.com/user-attachments/assets/2d22c947-ebfa-4d7b-9976-ea58731b5bdc
+
+
