@@ -1,4 +1,4 @@
-Reinforcement Learning - University Projects
+Reinforcement Learning - University Research Course Work
 ----------------------------------------------
 1. Multi-GPU Distributed Infrastructure & Compute Optimization
 Title: Multi-GPU Distributed Fine-Tuning & Compute Infrastructure
