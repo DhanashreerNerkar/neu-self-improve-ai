@@ -22,6 +22,6 @@ Description: Designed a unified evaluation benchmark bridging WebShop and WebAre
 
 Resources and Referecnes:
 --------------------------
-Research Paper - https://llm-mcts.github.io/static/pdfs/paper.pdf \n
-PlayList - https://www.youtube.com/playlist?list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ
+Research Paper - https://llm-mcts.github.io/static/pdfs/paper.pdf |
+PlayList - https://www.youtube.com/playlist?list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ |
 Google Deepmind RL course Inspired Visual Learning - https://dhanashreernerkar.github.io/rl-learning-guide/
